@@ -4,7 +4,7 @@ name: Build and deploy containerapps
 
 # set permissions for workflow
 permissions:
-  id-tokens: write
+  id-token: write
 
 
 on:
